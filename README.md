@@ -2,4 +2,7 @@
 how to track "stuff" in azure analytics for react app
 
 
-- using the web api to save the time spent 
+In the azure portal:  
+* Dashboard - is where the users can see the information you gathered from the analytics
+* Quwey - where you can run queries to see the different info 
+
